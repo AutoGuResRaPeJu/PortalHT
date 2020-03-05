@@ -14,7 +14,7 @@
           </div>
           <div class="col-lg-5 ml-auto" data-aos="fade-up" data-aos-delay="100">
             <div class="mb-4">
-              <h3 class="h3 mb-4 text-black">Um breve resumo</h3>
+              <!--<h3 class="h3 mb-4 text-black">Um breve resumo</h3>1-->
               <p>O projeto Home Tech vem com o objetivo inicial de criar um controle que foque na automação oferecendo um aplicativo que entregue para o usuário uma experiência completa. O trabalho foi feito em Javascript e PHP. O projeto visa auxiliar pessoas com e sem deficiências,
 fazendo com que elas tenham uma interação mais simples na sua casa, de maneira com que: </p>
               

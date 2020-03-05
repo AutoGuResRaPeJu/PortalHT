@@ -55,7 +55,7 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="#"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="images/team1 (4).jpg" alt="Image" class="img-fluid">
+                <img src="images/team1 (5).jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
                 <h3>Pedro Costa</h3>

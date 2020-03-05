@@ -4,7 +4,7 @@
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
-            <h2 class="section-title mb-3">Contacte-nos</h2>
+            <h2 class="section-title mb-3">Contato</h2>
           </div>
         </div>
         <div class="row mb-5">
@@ -37,7 +37,7 @@
 
             <form action="#" class="p-5 bg-white">
               
-              <h2 class="h4 text-black mb-5">Formulario para contato</h2> 
+              <h2 class="h4 text-black mb-5">Formulário para contato</h2> 
 
               <div class="row form-group">
                 <div class="col-md-6 mb-3 mb-md-0">
