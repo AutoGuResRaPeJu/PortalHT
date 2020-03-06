@@ -22,7 +22,7 @@
                 <img src="images/team1 (3).jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
-                <h3>Julio Cezar</h3>
+                <h3>Julio Cesar</h3>
                 <span class="position"><b>Programador Front-end</b></span>
               </div>
             </div>
