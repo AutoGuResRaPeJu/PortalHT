@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">    
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
@@ -46,6 +49,7 @@
                     <li><a href="#team-section" class="nav-link">A equipe</a></li>
                     <li><a href="#pricing-section" class="nav-link">Valores</a></li>
                     <li><a href="#faq-section" class="nav-link">Perguntas Recentes</a></li>
+                    
                      <!-- <li class="has-children">
                       <a href="#">More Links</a>
                     <ul class="dropdown">
@@ -56,12 +60,12 @@
                     </li> !-->
                   </ul>
                 </li>
-                
-                <li><a href="#portfolio-section" class="nav-link">Portfolio</a></li>
-                <li><a href="#services-section" class="nav-link">Serviços</a></li>
-                <li><a href="#testimonials-section" class="nav-link">Comentarios</a></li>
-                <li><a href="#blog-section" class="nav-link">Blog</a></li>
-                <li><a href="#contact-section" class="nav-link">Contato</a></li>
+                <li><a href="index.php" class="nav-link">Home</a></li>
+                <li><a href="services-section" class="nav-link">Serviços</a></li>
+                <li><a href="testimonials-section" class="nav-link">Comentarios</a></li>
+                <li><a href="blog-section" class="nav-link">Blog</a></li>
+                <li><a href="contact-section" class="nav-link">Contato</a></li>
+                <li><a href="#login.php" class="nav-link">Login</a></li>
               </ul>
             </nav>
           </div>
@@ -73,29 +77,21 @@
       </div>
       
     </header>
-
-  
-     
-    <div class="site-blocks-cover overlay" style="background-image: url(images/hero_2.jpg);" data-aos="fade" id="home-section">
-
-      <div class="container">
-        <div class="row align-items-center justify-content-center">
-
-          
-          <div class="col-md-8 mt-lg-5 text-center">
-            <h1 class="text-uppercase" data-aos="fade-up">Sejá bem vindo</h1>
-            <p class="mb-5 desc"  data-aos="fade-up" data-aos-delay="100">Automatize o que desejar.</p>
-            <div data-aos="fade-up" data-aos-delay="100">
-              <a href="#contact-section" class="btn smoothscroll btn-primary mr-2 mb-2">A um toque de distancia</a>
-            </div>
-          </div>
-            
+<br>
+<br>
+<br>
+<br>
+<br>
+    <form action="src/controllers/autentica.php" method="post">
+        <div class="form-group">
+            <label for="rm">RM</label>
+            <input type="text" class="form-control" name="rm" id="rm" aria-describedby="helpId" placeholder="">
         </div>
-      </div>
-
-      <a href="#about-section" class="mouse smoothscroll">
-        <span class="mouse-icon">
-          <span class="mouse-wheel"></span>
-        </span>
-      </a>
-    </div>
+        <div class="form-group">
+            <label for="senha">Senha</label>
+            <input type="password" class="form-control" name="senha" id="senha" aria-describedby="helpId" placeholder="">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    
+<?php include_once "footer.php"; ?>
