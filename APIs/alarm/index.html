@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TESTE</title>
+</head>
+<script src="app.js"></script>
+<body onload="sivamtime()">
+
+
+
+  <table border="0" align="center" bgcolor="#c0c0c0" cellspacing="0" cellpadding="2" width="136">
+    <tr>
+      <td colspan="4">
+               <font size="1" face="verdana, arial, helvetica, ms sans serif">
+                 <b>Hora Atual</b>
+               </font>
+            </td>
+          </tr>
+    <tr>
+      <td>
+   <form name="hours">
+         <p><input type="text" size="2" name="clock"></p>
+         </form>
+      </td>
+      <td>
+   <form name="minutes">
+         <p><input type="text" size="2" name="clock" /></p>
+         </form>
+      </td>
+      <td>
+   <form name="seconds">
+         <p><input type="text" size="2" name="clock" /></p>
+         </form>
+      </td>
+      <td>
+   <form name="ampm">
+         <p><input type="text" size="2" name="clock" /></p>
+         </form>
+      </td>
+    </tr>
+ </table>
+
+
+       <table border="0" align="center" bgcolor="#c0c0c0" cellspacing="0" cellpadding="2" width="136">
+          <tr>
+      <td colspan="3">
+ <form name="arlm">
+               <font size="1" face="verdana, arial, helvetica, ms sans serif">
+                 <b>Que horas irá despertar?</b>
+               </font>
+            </td>
+          </tr>  
+          <tr align="center">
+      <td>
+               <font size="1" face="verdana, arial, helvetica, ms sans serif">
+                  Hour 
+               </font>
+            </td>
+      <td>
+               <font size="1" face="verdana, arial, helvetica, ms sans serif">
+                   Minute
+               </font>
+            </td>
+      <td>
+               <font size="1" face="verdana, arial, helvetica, ms sans serif">
+                  am/pm
+               </font>
+            </td>
+          </tr>
+    <tr align="center">
+      <td>
+         <input type="text" size="2" name="hr" onFocus="select()" />
+
+      </td>
+      <td>
+           <input type="text" size="2" name="mts" onFocus="select()" />
+      </td>
+      <td>
+          <input type="text" size="2" value="am" name="am_pm" onFocus="select()" />
+      </td>
+    </tr>
+          <tr align="left">
+      <td colspan="3">
+               <font size="1" face="verdana, arial, helvetica, ms sans serif">
+                  Messagem
+               </font>
+            </td>
+          </tr>
+    <tr align="left">
+            <td colspan="3">
+               <input type="text" size="15" value="Acorde!" name="message" /><br>
+<input type="checkbox" name="C1" value="ON" onClick="soundcheck(this)"> <font size="1" face="verdana, arial, helvetica, ms sans serif">Play LED?</font>
+      </td>
+    </tr>
+          <tr>
+      <td align="center" colspan="3">
+         <input type="button" size="2" value="Definir Alarme" onClick="alarm()" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+         <input type="button" size="2" value="Parar Alarme" onClick="Stop()" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+         <input type="button" size="2" value="Reset" onClick="reset()" />
+      </td>
+          </tr>
+ </table>
+ </form>
+
+
+
+
+
+
+
+    <input type="hidden" id="LED" onclick="onoff()" value="on"></button>
+    <script src="https://www.gstatic.com/firebasejs/6.2.0/firebase.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.2.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/6.2.0/firebase-database.js"></script>
+    <script>
+    var firebaseConfig = {
+        apiKey: "AIzaSyCBJ-xYSRgbSQLTswACH_RyA7qb5eRIGKI",
+        authDomain: "iot2019-2047d.firebaseapp.com",
+        databaseURL: "iot2019-2047d.firebaseio.com",
+        storageBucket: "iot2019-2047d.appspot.com"
+      };
+      firebase.initializeApp(firebaseConfig);
+
+
+function onoff(){
+          let estado=document.getElementById('LED').value;
+          if(estado=="off"){
+          firebase.database().ref('LED').set('on');
+      }
+      else{
+        firebase.database().ref('LED').set('off');
+      }
+      firebase.database().ref('LED').on('value',snapshot=>{
+          let l=snapshot.val();
+          if(l=='on'){
+            LED.setAttribute('value','on');
+            
+          }
+          else{
+            LED.setAttribute('value','off');
+    
+          }
+      })
+    }
+      
+      </script>
+    <script src="app1.js"></script>
+
+
+    </script>
+
+</html>
