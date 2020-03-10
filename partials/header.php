@@ -39,7 +39,7 @@
           <div class="col-12 col-md-10 d-none d-xl-block">
             <nav class="site-navigation position-relative text-right" role="navigation">
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                <li><a href="#home-section" class="nav-link">Inicio</a></li>
+                <li><a href="#home-section" class="nav-link">Início</a></li>
                 <li class="has-children">
                   <a href="#about-section" class="nav-link">Sobre Nós</a>
                   <ul class="dropdown">
@@ -57,9 +57,9 @@
                   </ul>
                 </li>
                 
-                <li><a href="#portfolio-section" class="nav-link">Portfolio</a></li>
+                <li><a href="#portfolio-section" class="nav-link">Portfólio</a></li>
                 <li><a href="#services-section" class="nav-link">Serviços</a></li>
-                <li><a href="#testimonials-section" class="nav-link">Comentarios</a></li>
+                <li><a href="#testimonials-section" class="nav-link">Comentários</a></li>
                 <li><a href="#blog-section" class="nav-link">Blog</a></li>
                 <li><a href="#contact-section" class="nav-link">Contato</a></li>
                 <li><a href="login.php" class="nav-link">Login</a></li>
@@ -84,10 +84,10 @@
 
           
           <div class="col-md-8 mt-lg-5 text-center">
-            <h1 class="text-uppercase" data-aos="fade-up">Sejá bem vindo</h1>
+            <h1 class="text-uppercase" data-aos="fade-up">Seja bem vindo</h1>
             <p class="mb-5 desc"  data-aos="fade-up" data-aos-delay="100">Automatize o que desejar.</p>
             <div data-aos="fade-up" data-aos-delay="100">
-              <a href="#contact-section" class="btn smoothscroll btn-primary mr-2 mb-2">A um toque de distancia</a>
+              <a href="#contact-section" class="btn smoothscroll btn-primary mr-2 mb-2">A um toque de distância</a>
             </div>
           </div>
             
