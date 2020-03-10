@@ -13,7 +13,7 @@
               <div>
                 <h3>Consultoria a domicilio</h3>
                 <p>Ao contratar-nos um tecnico irá até sua residencia verficar suas instalações eletricas, e explicar nossos planos</p>
-                <p><a href="#">Learn More</a></p>
+                <p><a href="#">Saber mais</a></p>
               </div>
             </div>
           </div>
@@ -23,7 +23,7 @@
               <div>
                 <h3>Analise de necessidade</h3>
                 <p>Fale com um de nossos atendentes para descobrir qual dos nossos serviços é o melhor para você</p>
-                <p><a href="#">Learn More</a></p>
+                <p><a href="#">Saber mais</a></p>
               </div>
             </div>
           </div>
@@ -33,7 +33,7 @@
               <div>
                 <h3>Suporte continuo</h3>
                 <p>Nossos tecnicos sempre estaram disponiveis para responder o mais depressa suas duvidas, e mandar algum(tecnico) se necessario</p>
-                <p><a href="#">Learn More</a></p>
+                <p><a href="#">Saber mais</a></p>
               </div>
             </div>
           </div>
@@ -45,7 +45,7 @@
               <div>
                 <h3>Suporte a pessoas com deficiencia</h3>
                 <p>Nossos serviços são com foco em acessibilidade</p>
-                <p><a href="#">Learn More</a></p>
+                <p><a href="#">Saber mais</a></p>
               </div>
             </div>
           </div>
@@ -55,7 +55,7 @@
               <div>
                 <h3>Total Controle pelo celular</h3>
                 <p>Temos aplicativo para você ter controle 100% pelo celular</p>
-                <p><a href="#">Learn More</a></p>
+                <p><a href="#">Saber mais</a></p>
               </div>
             </div>
           </div>

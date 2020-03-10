@@ -22,7 +22,7 @@
                 <li class="remove">Brinde</li>
               </ul>
               <p class="text-center">
-                <a href="#" class="btn btn-secondary">Buy Now</a>
+                <a href="#" class="btn btn-secondary">Comprar agora</a>
               </p>
             </div>
           </div>
@@ -42,7 +42,7 @@
                 <li class="remove">Brinde</li>
               </ul>
               <p class="text-center">
-                <a href="#" class="btn btn-primary">Buy Now</a>
+                <a href="#" class="btn btn-primary">Comprar agora</a>
               </p>
             </div>
           </div>
@@ -63,7 +63,7 @@
                 <li>Brinde</li>
               </ul>
               <p class="text-center">
-                <a href="#" class="btn btn-secondary">Buy Now</a>
+                <a href="#" class="btn btn-secondary">Comprar agora</a>
               </p>
             </div>
           </div>

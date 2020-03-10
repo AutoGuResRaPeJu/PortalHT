@@ -14,10 +14,10 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
+                  <li><a href="https://www.facebook.com/profile.php?id=100005110509920"><span class="icon-facebook"></span></a></li>
                   <li><a href="#"><span class="icon-twitter"></span></a></li>
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://www.instagram.com/escodroo_/"><span class="icon-instagram"></span></a></li>
                 </ul>
                 <img src="images/team1 (3).jpg" alt="Image" class="img-fluid">
               </figure>
@@ -32,10 +32,10 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
+                  <li><a href="https://www.facebook.com/guilhermeemagnani"><span class="icon-facebook"></span></a></li>
                   <li><a href="#"><span class="icon-twitter"></span></a></li>
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://www.instagram.com/gui_magnani/"><span class="icon-instagram"></span></a></li>
                 </ul>
                 <img src="images/team1 (2).jpg" alt="Image" class="img-fluid">
               </figure>
@@ -50,10 +50,10 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
+                  <li><a href="https://www.facebook.com/pedro.costaferreira.5"><span class="icon-facebook"></span></a></li>
                   <li><a href="#"><span class="icon-twitter"></span></a></li>
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://www.instagram.com/pe_co_fe/"><span class="icon-instagram"></span></a></li>
                 </ul>
                 <img src="images/team1 (4).jpg" alt="Image" class="img-fluid">
               </figure>
@@ -68,10 +68,10 @@
             <div class="team-member">
               <figure>
                 <ul class="social">
-                  <li><a href="#"><span class="icon-facebook"></span></a></li>
+                  <li><a href="https://www.facebook.com/profile.php?id=100005111438104"><span class="icon-facebook"></span></a></li>
                   <li><a href="#"><span class="icon-twitter"></span></a></li>
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
-                  <li><a href="#"><span class="icon-instagram"></span></a></li>
+                  <li><a href="https://www.instagram.com/rpererah/"><span class="icon-instagram"></span></a></li>
                 </ul>
                 <img src="images/team1 (1).jpg" alt="Image" class="img-fluid">
               </figure>

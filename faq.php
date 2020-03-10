@@ -57,7 +57,7 @@
                   <div>
                     <h3>Web Acessivel</h3>
                     <p>Fizemos nosso site e app todo pensando em acessibilidade queremos alcançar a todos</p>
-                    <p class="mb-0"><a href="#">Learn More</a></p>
+                    <p class="mb-0"><a href="#">Saber mais</a></p>
                   </div>
                 </div>
               </div>
@@ -67,7 +67,7 @@
                   <div>
                     <h3>Aceitamos sugestões</h3>
                     <p>Estamos sempre abertos a criticas, sugestões e elogios(pois nem só de criticas vive o mundo)</p>
-                    <p class="mb-0"><a href="#">Learn More</a></p>
+                    <p class="mb-0"><a href="#">Saber mais</a></p>
                   </div>
                 </div>
               </div>
