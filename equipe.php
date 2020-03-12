@@ -7,9 +7,8 @@
             <p class="lead" data-aos="fade-up" data-aos-delay="100">Aqui você vê nossa equipe e descobre como contactar a cada um</p>
           </div>
         </div>
-        <div class="row">
-          
-
+        
+        <div class="row mb-4 justify-content-center">
           <div class="col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="">
             <div class="team-member">
               <figure>
