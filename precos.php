@@ -17,8 +17,10 @@
                 
                 <li>Videos tutoriais</li>
                 <li>Produtos</li>
+                <li class="remove">Consultoria</li>
                 <li class="remove">Instalação</li>
                 <li class="remove">Suporte</li>
+                <li class="remove">Maior lista de automatizaveis</li>
                 <li class="remove">Brinde</li>
               </ul>
               <p class="text-center">
@@ -34,11 +36,13 @@
                 <span><span>Em breve</span> / year</span>
               </div>
               <ul class="list-unstyled ul-check success mb-5">
-                
+              
+              <li>Videos tutoriais</li> 
+              <li>Produtos</li>
               <li>Consultoria</li>
-                <li>Produtos</li>
                 <li>Instalação</li>
                 <li class="remove">Suporte</li>
+                <li class="remove">Maior lista de automatizaveis</li>
                 <li class="remove">Brinde</li>
               </ul>
               <p class="text-center">
@@ -54,12 +58,13 @@
                 <span><span>A avaliar</span> / year</span>
               </div>
               <ul class="list-unstyled ul-check success mb-5">
-                
+             
+              <li>Videos tutoriais</li>  
+              <li>Produtos</li>
               <li>Consultoria</li>
-              <li>Maior lista de automatizaveis</li>
-                <li>Produtos</li>
                 <li>Instalação</li>
                 <li>Suporte</li>
+                <li>Maior lista de automatizaveis</li>
                 <li>Brinde</li>
               </ul>
               <p class="text-center">

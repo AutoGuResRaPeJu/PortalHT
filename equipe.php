@@ -1,14 +1,15 @@
 <!--conteudo menu 3-->
 <section class="site-section border-bottom" id="team-section">
       <div class="container">
-        <div class="row mb-4 justify-content-center">
+        <div class="row mb-5 justify-content-center">
           <div class="col-md-8 text-center">
             <h2 class="section-title mb-3" data-aos="fade-up" data-aos-delay="">Nossa Equipe</h2>
             <p class="lead" data-aos="fade-up" data-aos-delay="100">Aqui você vê nossa equipe e descobre como contactar a cada um</p>
           </div>
         </div>
-        
-        <div class="row mb-4 justify-content-center">
+        <div class="row" style="justify-content: center; align-items: center;">
+          
+
           <div class="col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="">
             <div class="team-member">
               <figure>
@@ -27,6 +28,7 @@
             </div>
           </div>
 
+        
           <div class="col-md-6 col-lg-3 mb-4" data-aos="fade-up" data-aos-delay="200">
             <div class="team-member">
               <figure>
@@ -36,7 +38,7 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="https://www.instagram.com/pe_co_fe/"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="images/team1 (4).png" alt="Image" class="img-fluid">
+                <img src="images/team1 (4).jpg" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
                 <h3>Pedro Costa</h3>
@@ -63,6 +65,8 @@
             </div>
           </div>
 
+
+          
         </div>
       </div>
     </section>

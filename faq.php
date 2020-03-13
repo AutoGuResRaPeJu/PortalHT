@@ -4,35 +4,31 @@
             <h2 class="section-title">Perguntas Frequentes</h2>
           </div>
         </div>
-        <div class="row">
-          <div class="col-lg-6">
-            
-            <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
-            <h3 class="text-black h4 mb-4">Qual elementos são interessantes automatizar em um projeto residencial?</h3>
-            <p>Janelas para iluminar durante o dia e fechar com timer, ou pelo aplicativo ou por sensores quando escurecer ou quando chover. </p>
-            </div>
-            
-            <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
-              <h3 class="text-black h4 mb-4">O que no nosso ponto de vista ainda é impossível automatizar e porquê?</h3>
-              <p>“É impossível automatizar as emoções humanas, mas a automação pode despertar emoções proporcionando conforto.” Paula Garanito.</p>
-            </div>
+        <div class="row" style="justify-content: center; align-items: center;">
+          <div class="faq" style="display:flex;">
+              <div class="primeiro" style="padding: 30px;" >
+                <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
+                <h3 class="text-black h4 mb-4">Qual elementos são interessantes automatizar em um projeto residencial?</h3>
+                <p>Janelas para iluminar durante o dia e fechar com timer, ou pelo aplicativo ou por sensores quando escurecer ou quando chover. </p>
+                </div>
+                
+                <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
+                  <h3 class="text-black h4 mb-4">O que no nosso ponto de vista ainda é impossível automatizar e porquê?</h3>
+                  <p>“É impossível automatizar as emoções humanas, mas a automação pode despertar emoções proporcionando conforto.” Paula Garanito.</p>
+                </div>
+              </div>
 
-            <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
-            <h3 class="text-black h4 mb-4">O que levou a ideia?</h3>
-            <p>Os aparelhos e acessorios para pessoas com deficiencia são sempre de dificil adesão e caros</p>
-            </div>
-            
-            <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
-              <h3 class="text-black h4 mb-4">Toda atualização precisarei chamar um tecnico?</h3>
-              <p>Se for um update de algum aparelho diferente será avaliado a necessidade de mandar um novo tecnico dependendo do componente</p>
-            </div>
-          </div>
-          <div class="col-lg-6">
-
-            <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
-              <h3 class="text-black h4 mb-4">Se eu ficar sem energia?</h3>
-              <p>O grupo Home Tech recomenda o uso de geradores para as funções extremamentes essencias na casa como portas</p>
-            </div>
+              <div class="segundo" style="padding: 30px;">
+                <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
+                <h3 class="text-black h4 mb-4">O que levou a ideia?</h3>
+                <p>Os aparelhos e acessorios para pessoas com deficiencia são sempre de dificil adesão e caros</p>
+                </div>
+                
+                <div class="mb-5" data-aos="fade-up" data-aos-delay="100">
+                  <h3 class="text-black h4 mb-4">Toda atualização precisarei chamar um tecnico?</h3>
+                  <p>Se for um update de algum aparelho diferente será avaliado a necessidade de mandar um novo tecnico dependendo do componente</p>
+                </div>
+              </div>
           </div>
         </div>
       </div>
@@ -49,8 +45,6 @@
 
             <div class="row">
 
-              
-              
               <div class="col-md-12 mb-md-5 mb-0 col-lg-6" data-aos="fade-up" data-aos-delay="">
                 <div class="unit-4">
                   <div class="unit-4-icon mr-4 mb-3"><span class="text-primary flaticon-head"></span></div>
