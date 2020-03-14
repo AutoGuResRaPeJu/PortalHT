@@ -14,15 +14,15 @@
                   <li><a href="#about-section" class="smoothscroll">Sobre Nós</a></li>
                   <li><a href="#services-section" class="smoothscroll">Serviços</a></li>
                   <li><a href="#testimonials-section" class="smoothscroll">Depoimentos</a></li>
-                  <li><a href="#contact-section" class="smoothscroll">Contacte-nos</a></li>
+                  <li><a href="#contact-section" class="smoothscroll">Contato</a></li>
                 </ul>
               </div>
               <div class="col-md-3">
                 <h2 class="footer-heading mb-4">Siga nos</h2>
-                <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-                <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-                <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-                <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+                <a href="//www.facebook.com" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                <a href="//www.twitter.com" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+                <a href="//www.instagram.com" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                <a href="//www.linkedin.com" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
               </div>
             </div>
           </div>
@@ -30,7 +30,7 @@
             <h2 class="footer-heading mb-4">Se Inscreva</h2>
             <form action="#" method="post" class="footer-subscribe">
               <div class="input-group mb-3">
-                <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Enter Email" aria-label="Enter Email" aria-describedby="button-addon2">
+                <input type="text" class="form-control border-secondary text-white bg-transparent" placeholder="Email" aria-label="Email" aria-describedby="button-addon2">
                 <div class="input-group-append">
                   <button class="btn btn-primary text-black" type="button" id="button-addon2">Enviar</button>
                 </div>
@@ -42,7 +42,7 @@
           <div class="col-md-12">
             <div class="border-top pt-5">
               <p>
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | A Home Tech 
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> Todos os direitos reservados | Home Tech 
             </p>
         
             </div>

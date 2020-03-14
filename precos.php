@@ -11,16 +11,15 @@
             <div class="pricing">
               <h3 class="text-center text-black">Faça Você Mesmo</h3>
               <div class="price text-center mb-4 ">
-                <span><span>30R$</span> / por kit</span>
+                <span><span>R$30</span> / por kit</span>
               </div>
-              <ul class="list-unstyled ul-check success mb-5">
-                
+              <ul class="list-unstyled ul-check success mb-5">               
                 <li>Videos tutoriais</li>
                 <li>Produtos</li>
                 <li class="remove">Consultoria</li>
                 <li class="remove">Instalação</li>
                 <li class="remove">Suporte</li>
-                <li class="remove">Maior lista de automatizaveis</li>
+                <li class="remove">Maior lista de automatizáveis</li>
                 <li class="remove">Brinde</li>
               </ul>
               <p class="text-center">
@@ -33,17 +32,16 @@
             <div class="pricing">
               <h3 class="text-center text-black">Pessoal</h3>
               <div class="price text-center mb-4 ">
-                <span><span>Em breve</span> / year</span>
+                <span><span>Em breve</span> / ano</span>
               </div>
-              <ul class="list-unstyled ul-check success mb-5">
-              
+              <ul class="list-unstyled ul-check success mb-5">             
               <li>Videos tutoriais</li> 
               <li>Produtos</li>
               <li>Consultoria</li>
-                <li>Instalação</li>
-                <li class="remove">Suporte</li>
-                <li class="remove">Maior lista de automatizaveis</li>
-                <li class="remove">Brinde</li>
+              <li>Instalação</li>
+              <li class="remove">Suporte</li>
+              <li class="remove">Maior lista de automatizáveis</li>
+              <li class="remove">Brinde</li>
               </ul>
               <p class="text-center">
                 <a href="#" class="btn btn-primary">Comprar agora</a>
@@ -55,16 +53,15 @@
             <div class="pricing">
               <h3 class="text-center text-black">Profissional</h3>
               <div class="price text-center mb-4 ">
-                <span><span>A avaliar</span> / year</span>
+                <span><span>A avaliar</span> / ano</span>
               </div>
               <ul class="list-unstyled ul-check success mb-5">
-             
-              <li>Videos tutoriais</li>  
-              <li>Produtos</li>
-              <li>Consultoria</li>
+                <li>Videos tutoriais</li>  
+                <li>Produtos</li>
+                <li>Consultoria</li>
                 <li>Instalação</li>
                 <li>Suporte</li>
-                <li>Maior lista de automatizaveis</li>
+                <li>Maior lista de automatizáveis</li>
                 <li>Brinde</li>
               </ul>
               <p class="text-center">

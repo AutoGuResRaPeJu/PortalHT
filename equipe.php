@@ -38,7 +38,7 @@
                   <li><a href="#"><span class="icon-linkedin"></span></a></li>
                   <li><a href="https://www.instagram.com/pe_co_fe/"><span class="icon-instagram"></span></a></li>
                 </ul>
-                <img src="images/team1 (4).jpg" alt="Image" class="img-fluid">
+                <img src="images/team1 (4).png" alt="Image" class="img-fluid">
               </figure>
               <div class="p-3">
                 <h3>Pedro Costa</h3>
@@ -78,7 +78,7 @@
 
         <div class="row mb-3">
           <div class="col-12 text-center" data-aos="fade">
-            <h2 class="section-title mb-3">Portfolio</h2>
+            <h2 class="section-title mb-3">Portfólio</h2>
           </div>
         </div>
 
@@ -164,16 +164,16 @@
           </div>
 
           <div class="item brand col-sm-6 col-md-4 col-lg-4 col-xl-3 mb-4">
-            <a href="images/11.jpg" class="item-wrap fancybox" data-fancybox="gallery2">
+            <a href="images/11.png" class="item-wrap fancybox" data-fancybox="gallery2">
               <span class="icon-search2"></span>
-              <img class="img-fluid" src="images/img_11.jpg">
+              <img class="img-fluid" src="images/11.png">
             </a>
           </div>
 
           <div class="item design col-sm-6 col-md-4 col-lg-4 col-xl-3 mb-4">
             <a href="images/12.jpg" class="item-wrap fancybox" data-fancybox="gallery2">
               <span class="icon-search2"></span>
-              <img class="img-fluid" src="images/img_12.jpg">
+              <img class="img-fluid" src="images/12.jpg">
             </a>
           </div>
 

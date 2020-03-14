@@ -69,7 +69,7 @@
               <div class="row form-group">
                 <div class="col-md-12">
                   <label class="text-black" for="message">Texto</label> 
-                  <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Escreva suas duvidas,sugestões,criticas ou elogios"></textarea>
+                  <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Escreva suas dúvidas, sugestões, críticas ou elogios"></textarea>
                 </div>
               </div>
 
@@ -77,12 +77,10 @@
                 <div class="col-md-12">
                   <input type="submit" value="Enviar Mensagem" class="btn btn-primary btn-md text-white">
                 </div>
+                
               </div>
-
-  
             </form>
           </div>
-          
         </div>
       </div>
     </section>

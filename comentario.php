@@ -12,7 +12,7 @@
             <div class="testimonial">
               
               <blockquote class="mb-5">
-                <p>&ldquo;Estou satisfeita com o oferecido pois acompanho o projeto desde seu nascimento e vejo que em breve muitas ONGs poderam se beneficiar com um projeto que foca em acessibilidade&rdquo;</p>
+                <p>&ldquo;Estou satisfeita com o oferecido pois acompanho o projeto desde seu nascimento e vejo que em breve muitas ONGs poderão se beneficiar com um projeto que foca em acessibilidade.&rdquo;</p>
               </blockquote>
 
               <figure class="mb-4 d-flex align-items-center justify-content-center">
@@ -25,7 +25,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Se fosse a cura pro cancer seria melhor. e eu acho que pessoas que gostam de trident de canela estão a um passo do crack&rdquo;</p>
+                <p>&ldquo;Se fosse a cura pro câncer seria melhor, e eu acho que pessoas que gostam de trident de canela estão à um passo do crack.&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/p7.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -39,7 +39,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Eu idealizei a ideia, e apoio o grupo, parabéns, lá em casa funcionou&rdquo;</p>
+                <p>&ldquo;Eu idealizei a ideia, e apoio o grupo, parabéns. Lá em casa funcionou.&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/p8.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -54,7 +54,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Achei bem explicativo tem varios videozinhos&rdquo;</p>
+                <p>&ldquo;Achei bem explicativo tem vários videozinhos&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/p12.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -67,7 +67,7 @@
             <div class="testimonial">
 
               <blockquote class="mb-5">
-                <p>&ldquo;Ta bom ta bonito ETC e tals, não sou obrigada a elogiar nem tem banquinho.&rdquo;</p>
+                <p>&ldquo;Tá bom, tá bonito etc e tals, não sou obrigada a elogiar nem tem banquinho.&rdquo;</p>
               </blockquote>
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/p10.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
@@ -85,10 +85,8 @@
               <figure class="mb-4 d-flex align-items-center justify-content-center">
                 <div><img src="images/p11.jpg" alt="Image" class="w-50 img-fluid mb-3"></div>
                 <p>Fillipe Souza</p>
-              </figure>
-              
+              </figure>              
             </div>
           </div>
-
         </div>
     </section>
