@@ -31,27 +31,27 @@
                 <p class="lead">Este serviço ja se encontra disponivel</p>
                 <p>Que tal acessar as lâmpadas de sua casa em uma interface amigável, nós podemos te ajudar</p>
 
-                <p><a href="#" class="btn btn-primary mr-2 mb-2">Acesse MyHT para testar</a></p>
+                <p><a href="./IOT/app/web/entrada.php" class="btn btn-primary mr-2 mb-2">Acesse MyHT para testar</a></p>
               </div>
               <div>
                 <h2 class="section-title mb-3">Campainha para surdos</h2>
                 <p class="lead">Este serviço ja se encontra disponivel</p>
                 <p>Você está com problemas em identificar quando tem alguém à porta? Esse nosso serviço irá suprir suas necessidades</p>
-                <p><a href="#" class="btn btn-primary mr-2 mb-2">Acesse MyHT para testar</a></p>
+                <p><a href="./IOT/app/web/entrada.php" class="btn btn-primary mr-2 mb-2">Acesse MyHT para testar</a></p>
               </div>
               <div>
                 <h2 class="section-title mb-3">Alarme para surdos</h2>
                 <p class="lead">Este serviço se encontra indisponivel</p>
                 <p>Cansado de perder a hora? Esse nosso serviço irá suprir suas necessidades</p>
 
-                <p><a href="#" class="btn btn-primary mr-2 mb-2">Em Breve</a></p>
+                <p><a href="./IOT/app/web/entrada.php" class="btn btn-primary mr-2 mb-2">Em Breve</a></p>
               </div>
               <div>
                 <h2 class="section-title mb-3">Porta para cegos</h2>
                 <p class="lead">Este serviço se encontra indisponivel</p>
                 <p>Está com dificuldade em abrir portas, as chaves não são seguras? Esse nosso serviço irá suprir suas necessidades</p>
 
-                <p><a href="#" class="btn btn-primary mr-2 mb-2">Em Breve</a></p>
+                <p><a href="./IOT/app/web/entrada.php" class="btn btn-primary mr-2 mb-2">Em Breve</a></p>
               </div>
             </div>
             
