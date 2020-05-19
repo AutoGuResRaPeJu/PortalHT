@@ -33,20 +33,20 @@
         <div class="row">
           <div class="col-md-12 mb-5">
 
-            
 
-            <form action="#" class="p-5 bg-white">
+
+            <form action="enviar.php" method="post" class="p-5 bg-white">
               
               <h2 class="h4 text-black mb-5">Formulário para contato</h2> 
 
               <div class="row form-group">
                 <div class="col-md-6 mb-3 mb-md-0">
                   <label class="text-black" for="fname">Nome</label>
-                  <input type="text" id="fname" class="form-control">
+                  <input type="text" id="nome" name='nome' class="form-control">
                 </div>
                 <div class="col-md-6">
                   <label class="text-black" for="lname">Sobrenome</label>
-                  <input type="text" id="lname" class="form-control">
+                  <input type="text" id="sobrenome" name="sobrenome" class="form-control">
                 </div>
               </div>
 
@@ -54,7 +54,7 @@
                 
                 <div class="col-md-12">
                   <label class="text-black" for="email">Email</label> 
-                  <input type="email" id="email" class="form-control">
+                  <input type="email" id="email" name="email" class="form-control">
                 </div>
               </div>
 
@@ -62,14 +62,14 @@
                 
                 <div class="col-md-12">
                   <label class="text-black" for="subject">Assunto</label> 
-                  <input type="subject" id="subject" class="form-control">
+                  <input type="subject" id="subject" name="subject" class="form-control">
                 </div>
               </div>
 
               <div class="row form-group">
                 <div class="col-md-12">
                   <label class="text-black" for="message">Texto</label> 
-                  <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Escreva suas dúvidas, sugestões, críticas ou elogios"></textarea>
+                  <textarea name="message" id="message" name="message" cols="30" rows="7" class="form-control" placeholder="Escreva suas duvidas,sugestões,criticas ou elogios"></textarea>
                 </div>
               </div>
 
@@ -77,10 +77,12 @@
                 <div class="col-md-12">
                   <input type="submit" value="Enviar Mensagem" class="btn btn-primary btn-md text-white">
                 </div>
-                
               </div>
+
+  
             </form>
           </div>
+          
         </div>
       </div>
     </section>
